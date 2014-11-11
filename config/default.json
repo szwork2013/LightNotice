@@ -18,6 +18,10 @@
       "certDevelopment": "/config/aps_development.pem",
       "certProduction": "/config/aps_production.pem",
       "key": "/config/aps_key.pem"
+    },
+    "baidu": {
+      "secretKey": "Euhgo6z9SWm3Z3YTQrPhlF9L3F0UQTU7",
+      "apiKey": "4tik7VTn75wkKG1cC1nvRnQn"
     }
   }
 }
