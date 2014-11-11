@@ -10,5 +10,14 @@
     "pool": 5,
     "prefix": "",
     "schema": {}
+  },
+
+  "push": {
+    "apn": {
+      "isDevelopment": true,
+      "certDevelopment": "/config/aps_development.pem",
+      "certProduction": "/config/aps_production.pem",
+      "key": "/config/aps_key.pem"
+    }
   }
 }
