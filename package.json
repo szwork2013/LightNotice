@@ -10,6 +10,7 @@
     "url": "git://github.com/SmartCircle/LightModel.git"
   },
   "dependencies": {
-      "light-framework": "0.0.6"
+    "light-framework": "0.0.6",
+    "apn": "1.6.2"
   }
 }
