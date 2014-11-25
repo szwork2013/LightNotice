@@ -22,6 +22,11 @@
     "baidu": {
       "secretKey": "Euhgo6z9SWm3Z3YTQrPhlF9L3F0UQTU7",
       "apiKey": "4tik7VTn75wkKG1cC1nvRnQn"
+    },
+    "getui": {
+      "appId": "PZfAwNKJeN7ZkWQCQwT7W1",
+      "appKey": "6N2yw9Oxww9hcX28HndQG9",
+      "masterSecrt": "cTSn2J8Uug8KCWmfysMM5A"
     }
   }
 }
